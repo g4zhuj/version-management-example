@@ -1,5 +1,5 @@
 # version-management-example
-example of version management of golang
+golang程序版本管理例子
 
 ## 编译
 修改脚本中的程序名以及版本号,并使用脚本编译后,相关信息就会写到version的变量中,通过在main函数中打印该信息显示相关信息.
